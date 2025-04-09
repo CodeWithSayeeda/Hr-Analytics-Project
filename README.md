@@ -1,59 +1,68 @@
-# HR Analytics Project
+# 👩‍💼 HR Analytics Dashboard Project
 
-## 📌 Overview
-This self-initiated HR Analytics project explores workforce data to understand patterns in employee attrition and performance. It was completed as part of a self-paced online learning journey using resources from YouTube and hands-on practice with Power BI and Excel.
-
-The goal was to apply real-world analytics techniques to HR datasets, build dynamic dashboards, and generate insights that could assist HR decision-making.
+This self-driven project focused on analyzing key HR metrics to understand workforce trends, improve employee experience, and support data-driven HR decision-making. The final deliverable was a visually interactive dashboard built using **Power BI**.
 
 ---
 
-## 🎯 Objectives
-- Identify factors contributing to employee attrition
-- Visualize key HR metrics such as turnover rate, tenure, department-wise attrition
-- Gain hands-on experience in using Excel and Power BI for business analysis
+## 🎯 Project Objective
+
+To analyze and visualize HR-related data — such as attrition, employee satisfaction, demographics, and department-wise performance — in order to derive actionable insights for Human Resources strategy and operations.
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Excel**: Data cleaning, pivot tables, VLOOKUPs, charts  
-- **Power BI**: Dashboard creation, slicers, cards, DAX functions  
-- **Sample HR Dataset**: Cleaned and customized for visualization
+## 🛠 Tools Used
+
+| Tool         | Purpose                                         |
+|--------------|-------------------------------------------------|
+| **Power BI** | Dashboard creation and data visualization       |
+| **Excel**    | Data preparation and structuring                |
 
 ---
 
-## 📊 Project Deliverables
-- Cleaned HR dataset with derived fields (e.g., tenure in months, status flags)
-- Excel workbook with summary analysis and visual trends
-- Power BI dashboard visualizing key metrics and insights
+## 📊 Key Insights Highlighted
+
+- Department-wise attrition rates and patterns over time
+- Employee satisfaction and performance distribution
+- Gender and role-based demographics across the organization
+- Drill-down analysis by region, experience level, and salary band
 
 ---
 
-## 📷 Sample Visuals
+## 📎 Files Included
 
-> _Add screenshots here_  
-Example:  
-- Attrition by Department  
-- Tenure vs Attrition Chart  
-- Gender and Age Diversity Overview  
+- `/dashboard-screenshots/` – 📸 Power BI dashboard screenshot(s) showcasing the project output
+
+> ⚠️ *Note: Dataset was obtained from open learning resources and is not included in this repository.*
 
 ---
 
-## 📁 Files Included
-- `HR_Analytics_Cleaned_Data.xlsx` – Cleaned and prepped dataset  
-- `HR_Analytics_PowerBI_Dashboard.pbix` – Interactive dashboard file  
-- `README.md` – Project overview and documentation
+## 🖼️ Sample Output
+
+![Power BI HR Dashboard](dashboard-screenshots/your-dashboard-image.png)
+
+*(Update the image path and filename to match your screenshot)*
 
 ---
 
-## 💡 Insights
-- Higher attrition rates were observed in specific departments such as Sales and HR.
-- Employees with shorter tenures (<1 year) had the highest attrition rate.
-- Work-life balance and job satisfaction scores were strong predictors of attrition.
+## 🚀 Skills Applied
+
+- **Data Cleaning & Structuring:** Processed raw Excel data for visualization
+- **Dashboard Design:** Built an interactive Power BI dashboard focusing on usability and clarity
+- **HR Domain Understanding:** Interpreted key HR KPIs and presented findings aligned with business goals
 
 ---
 
-## 🙋‍♀️ About Me
-I'm a recent MBA graduate specializing in Finance with a Bachelor's degree in Commerce with Computers. I am passionate about turning raw data into actionable insights and exploring the intersection of business and analytics. This project reflects my drive to learn independently and build practical skills for business/data analyst roles.
+## 💡 What I Learned
+
+- How to extract HR insights from data using simple but effective visuals
+- Best practices for designing dashboards for non-technical stakeholders
+- Reinforced foundational knowledge in **Power BI** and **Excel**
 
 ---
 
+## 📬 Contact
+
+- 📧 Email: your.email@example.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
+
+---
