@@ -63,6 +63,6 @@ To analyze and visualize HR-related data — such as attrition, employee satisfa
 ## 📬 Contact
 
 - 📧 Email: your.email@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 🔗 [LinkedIn][(https://www.linkedin.com/in/sayeeda-begum-b84916312/)]
 
 ---
